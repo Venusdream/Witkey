@@ -1,0 +1,19 @@
+网站搭建 https://zhuanlan.zhihu.com/p/34842753
+1、域名
+2、服务器 阿里云
+3、配置环境 
+4、网页内容
+HTTP://WWW.W3SCHOOL.COM.CN
+HTML 4.01…………web前端                 
+CSS 的使用…………web前端
+XHTML·············web前端
+XML 和 XSLT·········· 
+客户端脚本…………JavaScript 
+服务器端脚本……ASP 和 PHP
+通过 SQL 管理数据········SQL Server、Oracle、Sybase 以及 Access。
+5、域名解析
+6、ICP备案（注册资金100万?创立公司）
+7、SEO优化
+
+是否使用WordPress快速建站
+
